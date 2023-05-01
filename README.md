@@ -15,3 +15,7 @@ Similarly, if the user selects "Show All Employee," the program calls the dao.sh
 The program uses a Scanner object to read input from the user, and handles InputMismatchException to ensure that the user enters valid input.
 
 Finally, the program runs in an infinite loop, displaying the menu of options to the user until the user chooses to exit the program. When the user chooses to exit, the program calls System.exit() to terminate the program.
+
+
+
+
